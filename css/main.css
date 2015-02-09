@@ -1,0 +1,60 @@
+* {
+	font-family: verdana, sans-serif;
+	color: #666
+}
+
+h1 {
+	font-size: 48px;
+}
+
+h2 {
+	color: #f07c17;
+	font-size: 24px;
+	font-weight: 700;
+}
+
+p {
+	font-size: 16px;
+	line-height: 32px;
+	font-weight: 500;
+}
+
+.title {
+	margin-top: 45px;
+	margin-bottom: 30px;
+}
+
+.subtitle {
+	margin-top: 0px;
+	margin-bottom: 30px;
+}
+
+.main-features-box {
+	border-color: #ccc;
+	border-width: 1px;
+	border-style: solid;
+	margin-top: 30px;
+	padding-bottom: 30px;
+}
+
+.main-features-title {
+	margin-top: 30px;
+	margin-left: 30px;
+	margin-bottom: 30px;
+}
+
+.main-features-list {
+	margin-left: 30px;
+	font-size: 16px;
+	line-height: 32px;
+	font-weight: 500;
+}
+/* To be DELETED before submission
+.mockup-overlay {
+       top: 0;
+       position: absolute;
+       z-index: -1;
+       opacity: .4;
+    }
+*** */
+
