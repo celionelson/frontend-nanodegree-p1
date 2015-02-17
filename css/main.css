@@ -1,8 +1,3 @@
-* {
-	font-family: verdana, sans-serif;
-	color: #666
-}
-
 h1 {
 	font-size: 48px;
 }
@@ -19,14 +14,17 @@ p {
 	font-weight: 500;
 }
 
+.container {
+	font-family: verdana, sans-serif;
+	color: #666;
+}
+
 .title {
-	margin-top: 45px;
-	margin-bottom: 30px;
+	margin: 45px 0 30px;
 }
 
 .subtitle {
-	margin-top: 0px;
-	margin-bottom: 30px;
+	margin: 0 0 30px;
 }
 
 .main-features-box {
@@ -38,9 +36,7 @@ p {
 }
 
 .main-features-title {
-	margin-top: 30px;
-	margin-left: 30px;
-	margin-bottom: 30px;
+	margin: 30px 0 30px 30px;
 }
 
 .main-features-list {
@@ -49,12 +45,3 @@ p {
 	line-height: 32px;
 	font-weight: 500;
 }
-/* To be DELETED before submission
-.mockup-overlay {
-       top: 0;
-       position: absolute;
-       z-index: -1;
-       opacity: .4;
-    }
-*** */
-
