@@ -28,9 +28,7 @@ p {
 }
 
 .main-features-box {
-	border-color: #ccc;
-	border-width: 1px;
-	border-style: solid;
+	border: 1px solid #ccc;
 	margin-top: 30px;
 	padding-bottom: 30px;
 }
